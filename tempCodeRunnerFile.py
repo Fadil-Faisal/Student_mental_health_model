@@ -1,0 +1,1 @@
+anxiety_features = input_df.drop(['AnxietyLevel', 'StressLevel', 'DepressionLevel', 'SleepQuality', 'NeedCounseling'], axis=1, errors='ignore')
