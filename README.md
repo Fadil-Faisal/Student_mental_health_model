@@ -169,7 +169,7 @@ Suggested license snippet to include in repository (create LICENSE):
 ```
 MIT License
 
-Copyright (c) 2026 <Your Name>
+Copyright (c) 2026 <Fadil Faisal>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 ```
@@ -181,13 +181,6 @@ Acknowledgements
 Contact & Support
 For questions, feature requests, or collaboration:
 - GitHub: https://github.com/Fadil-Faisal/Student_mental_health_model
-- (Add email or other contact info if desired)
 
 ---
 
-Thank you for building this thoughtful project. If you'd like, I can:
-- Create the README.md in the repository directly,
-- Add badges (CI / license),
-- Generate a short contribution guideline or CODE_OF_CONDUCT,
-- Or produce a concise developer guide explaining the main functions in train_model.py and app.py.
-Which would you like next?
